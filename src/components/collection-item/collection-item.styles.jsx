@@ -52,4 +52,5 @@ export const FooterNameComponent = styled.div`
 
 export const FooterPriceComponent = styled.div`
     width: 10%; 
+    text-align: right;
 `;
